@@ -1,3 +1,4 @@
 [1005/131104.174:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1005/131104.174:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\kenlo\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\6a0bbbb4-1394-44df-8b54-4aec4baf345e: The system cannot find the path specified. (0x3)
 [1005/131104.190:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\kenlo\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\bd8593e7-f613-4764-a680-4fe8bfc509b7: The system cannot find the path specified. (0x3)
+[1005/223721.936:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
